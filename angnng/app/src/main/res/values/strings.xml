@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">đa ngôn ngữ</string>
+    //thêm các dòng sau
+    <string name ="multilang">Multiple Language</string>
+    <string name="show_toast">Show a toast message</string>
+    <string name="toast">This is a toast message</string>
+</resources>
